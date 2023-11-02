@@ -1,0 +1,17 @@
+# Modules:
+wbdata == 0.3.0
+wbgapi == 1.0.12
+pandas == 1.5.3
+datetime == 5.2
+geopy.geocoders
+geopy == 2.4.0
+nominatim == 0.1
+pycountry == 22.3.5
+json 
+plotly.express == 0.4.1
+plotly == 5.9.0
+matplotlib.pyplot
+matplotlib == 3.7.0
+seaborn == 0.12.2
+numpy == 1.23.5
+random
