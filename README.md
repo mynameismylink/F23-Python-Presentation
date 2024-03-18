@@ -1,4 +1,6 @@
 # F23-Python-Presentation
+This is a data group project with the aim to explore the correlations between a country's economy and tobacco use prevalence, with consideration of other factors such as alcohol consumption and gender differences.
+
 # Presentation 1 - Group 2
 ## Does tobacco have anything to do with GDP per capita, alcohol, or gender?
 
